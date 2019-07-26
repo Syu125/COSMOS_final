@@ -1,6 +1,8 @@
 import numpy as np
 import random as rm
 
+hi
+
 # The statespace
 states = ["G","A","B"]
 
